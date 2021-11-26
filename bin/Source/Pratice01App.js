@@ -19,7 +19,7 @@ Pratice01App.prototype.onReady = function()
 
 	//PC용 프레임워크
 	this.setMainContainer(new APage('main'));
-	this.mainContainer.open('Source/TestView.lay');
+	this.mainContainer.open('Source/TestFlexLayout.lay');
 
 	//TODO:edit here
 
